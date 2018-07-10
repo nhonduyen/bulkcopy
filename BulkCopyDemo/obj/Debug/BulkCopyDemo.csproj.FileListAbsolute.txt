@@ -1,0 +1,11 @@
+D:\Duyen\Study\BulkCopyDemo\BulkCopyDemo\bin\Debug\BulkCopyDemo.exe.config
+D:\Duyen\Study\BulkCopyDemo\BulkCopyDemo\bin\Debug\BulkCopyDemo.exe
+D:\Duyen\Study\BulkCopyDemo\BulkCopyDemo\bin\Debug\BulkCopyDemo.pdb
+D:\Duyen\Study\BulkCopyDemo\BulkCopyDemo\obj\Debug\BulkCopyDemo.csprojResolveAssemblyReference.cache
+D:\Duyen\Study\BulkCopyDemo\BulkCopyDemo\obj\Debug\BulkCopyDemo.Form1.resources
+D:\Duyen\Study\BulkCopyDemo\BulkCopyDemo\obj\Debug\BulkCopyDemo.Properties.Resources.resources
+D:\Duyen\Study\BulkCopyDemo\BulkCopyDemo\obj\Debug\BulkCopyDemo.csproj.GenerateResource.Cache
+D:\Duyen\Study\BulkCopyDemo\BulkCopyDemo\obj\Debug\BulkCopyDemo.exe
+D:\Duyen\Study\BulkCopyDemo\BulkCopyDemo\obj\Debug\BulkCopyDemo.pdb
+D:\Duyen\Study\BulkCopyDemo\BulkCopyDemo\bin\Debug\EPPlus.dll
+D:\Duyen\Study\BulkCopyDemo\BulkCopyDemo\bin\Debug\EPPlus.xml
